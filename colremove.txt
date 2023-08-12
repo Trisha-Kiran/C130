@@ -1,0 +1,15 @@
+hyperlink 
+temp_planet_date
+temp_planet_mass
+pl_letter
+pl_name
+pl_controvflag
+pl_pnum
+pl_orbper
+pl_orbpererr1
+pl_orbpererr2
+pl_orbperlim
+pl_orbsmax
+pl_orbsmaxerr1
+pl_orbsmaxerr2
+pl_orbsmaxlim
